@@ -17,4 +17,3 @@ git commit -m "commit message" ==> commit message
 rm -rf .git ==> Delete repo
 
 touch .gitignore  ==> genrate gitignore file
-
