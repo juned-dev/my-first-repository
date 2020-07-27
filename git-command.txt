@@ -1,0 +1,12 @@
+Git command:-
+
+git config user.name ==> know user name
+
+git config user.email ==> know user email
+
+git init ==> project initialize
+
+git status ==> know status
+
+git add --a ==> add all file in to staging area
+
