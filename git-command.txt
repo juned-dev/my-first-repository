@@ -1,5 +1,7 @@
 Git command:-
 
+pwd ==> presant working directory 
+
 git config user.name ==> know user name
 
 git config user.email ==> know user email
@@ -10,3 +12,8 @@ git status ==> know status
 
 git add --a ==> add all file in to staging area
 
+git commit -m "commit message" ==> commit message
+
+rm -rf .git ==> Delete repo
+
+touch .gitignore  ==> genrate gitignore file
